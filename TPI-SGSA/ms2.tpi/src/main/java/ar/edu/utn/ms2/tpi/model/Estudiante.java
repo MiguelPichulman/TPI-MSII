@@ -1,3 +1,5 @@
+package ar.edu.utn.ms2.tpi.model;
+
 public class Estudiante {
     public String legajo;
     public String nombreCompleto;
